@@ -74,12 +74,12 @@ const datosHeader: HeaderData = {
   redes: [
     {
       name: "Github",
-      url: "https://github.com/yahirgallo",
+      url: "https://github.com/yarul12GC",
       urlImg: "/img/github.png"
     },
     {
       name: "Linkedin",
-      url: "https://www.linkedin.com/in/yahir-gallo/",
+      url: "https://www.linkedin.com/in/yahir-gallo-colorado-1956b32bb/",
       urlImg: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
     },
     {

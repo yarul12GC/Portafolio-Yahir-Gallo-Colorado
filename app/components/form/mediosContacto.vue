@@ -26,17 +26,17 @@ const contactos = ref<DataMedioContracto[]>([
     {
         titulo: "Github",
         icono: "/img/github.png",
-        link: "https://github.com/yahirgallo"
+        link: "https://github.com/yarul12GC"
     },
     {
         titulo: "Linkedin",
         icono: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg",
-        link: "https://www.linkedin.com/in/yahir-gallo/"
+        link: "https://www.linkedin.com/in/yahir-gallo-colorado-1956b32bb/"
     },
     {
         titulo: "Correo",
         icono: "/img/gmail.png",
-        link: "mailto:qNkV9@example.com"
+        link: "mailto:yahir634gallo@gmail.com"
     },
     {
         titulo: "Telefono",
