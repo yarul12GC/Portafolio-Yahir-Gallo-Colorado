@@ -7,11 +7,11 @@
         </div>
         <div class="col-12">
           <div class="row">
-            <div class="col-12 col-md-5 my-auto">
+            <div class="col-12 col-md-12 col-lg-5 my-auto d-block d-md-none d-lg-none">
               <ContentImgs />
             </div>
 
-            <div class="col-12 col-md-7 my-auto ">
+            <div class="col-12 col-md-12 col-lg-12 my-auto ">
               <ContentDescription :datosHeader="datosHeader" />
             </div>
           </div>
@@ -45,7 +45,7 @@
         </div>
       </div>
 
-      <div class="row mt-4 contenedor">
+      <div class="row mt-4 contenedor" id="experiencia">
         <div class="col-12">
           <h3 class="fw-bold colorT">Mi experiencia profesional</h3>
         </div>

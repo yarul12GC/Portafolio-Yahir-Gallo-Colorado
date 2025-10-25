@@ -3,8 +3,8 @@ function getSkills() {
     return [
         { category: "Bases de Datos", items: ["MySQL", "PostgreSQL"] },
         { category: "Business Intelligence", items: ["Power BI (nivel básico)"] },
-        { category: "Programación Back-End", items: ["PHP"] },
-        { category: "Programación Front-End", items: ["JavaScript", "HTML, CSS, Bootstrap"] },
+        { category: "Programación Back-End", items: ["PHP", "Nest JS"] },
+        { category: "Programación Front-End", items: ["JavaScript", "HTML", "CSS", "Bootstrap", "Tailwind"] },
         { category: "Frameworks Front-End", items: ["Angular", "Astro", "Nuxt 3", "Vue 3"] },
         { category: "Desarrollo Web", items: ["Sitios responsivos", "Webs dinámicas"] },
         { category: "Administración de Hosting", items: ["cPanel", "Gestión de servidores y despliegues"] },
